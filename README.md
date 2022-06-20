@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kmarv
+- 👋 Hi, I’m Marvin
 - 👀 I’m interested in Software Development and engineering
 - 🌱 
-- 💞️ I’m looking to collaborate on software projects
+- 💞️ I’m work as a software Engineer / Developer
 - 📫 
 
 <!---
