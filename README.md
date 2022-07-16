@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marvin
 - 👀 I’m interested in Software Development and engineering
 - 🌱 
-- 💞️ I’m work as a software Engineer / Developer
+- 💞️ I work as a software Engineer / Developer
 - 📫 
 
 <!---
