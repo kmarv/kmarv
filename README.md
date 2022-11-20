@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaaya Marvin a software engineer/Frontend developer/ Blockchain developer 
 - 💻️ i have gained a measurable experince of 2 years in front end development using technlogies like ReactJS, NextJs. working for tech startups like Pieme, Kola technologies  
-- 🌱 I’m also gaining experience in working as a blockchain developer (smart contract development)
+- 🌱 I’m also gaining experience in working as a blockchain developer (smart contract development) where i'm engaging in the development and deployment of smart contracts
 - 💞️ I'm passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people. Learn more about me
 
 Email : marvkaay@gmail.com
