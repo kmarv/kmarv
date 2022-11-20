@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Marvin
-- 👀 
-- 🌱 I’m interested in Software Development and engineering
-- 💞️  
-- 📫 I work as a software Engineer
+- 👋 Hi, I’m Kaaya Marvin a software engineer/Frontend developer/ Blockchain developer 
+- 💻️ i have gained a measurable experince of 2 years in front end development using technlogies like ReactJS, NextJs. working for tech startups like Pieme, Kola technologies  
+- 🌱 I’m also gaining experience in working as a blockchain developer (smart contract development)
+- 💞️ I'm passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people. Learn more about me
+
+Email : marvkaay@gmail.com
+
+Linkedin: https://www.linkedin.com/in/kaaya-marvin-6b701b190/
+
+Twitter : https://twitter.com/kaay_marv
+
+
 
 <!---
 kmarv/kmarv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
