@@ -9,6 +9,8 @@ Linkedin: https://www.linkedin.com/in/kaaya-marvin-6b701b190/
 
 Twitter : https://twitter.com/kaay_marv
 
+Portfolio Website : https://kaayamarvin-portfolio.netlify.app/
+
 
 
 <!---
