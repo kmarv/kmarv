@@ -20,14 +20,15 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - 👋 Hi, I’m Kaaya Marvin a software engineer/Frontend developer/ Blockchain developer 
 - 💻 i have gained  experience of 2+ years in front end development using technlogies like ReactJS, NextJs. working for tech startups like Pieme, Kola technologies  
 - 🌻 I’m also gaining experience in working as a blockchain developer (smart contract development) where i'm engaging in the development and deployment of smart contracts
 - 💞️ I'm passionate about solving problems with technology and constantly looking forward to self-improvement in terms of learning and working with people. Learn more about me
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaaya-marvin-6b701b190/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-brightgreen)](https://kaayamarvin-portfolio.netlify.app/)
+- 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-brightgreen)](https://kaayamarvin-portfolio.netlify.app/)
 
 ---
 
@@ -36,7 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongi=odb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
