@@ -6,11 +6,15 @@
 - 🌱 I’m also gaining experience in working as a blockchain developer (smart contract development) where i'm engaging in the development and deployment of smart contracts
 - 💞️ I'm passionate about solving problems with technology and constantly looking forward to self-improvement in terms of learning and working with people. Learn more about me
 
-Email : marvkaay@gmail.com
-
-Linkedin: https://www.linkedin.com/in/kaaya-marvin-6b701b190/
-
-Twitter : https://twitter.com/kaay_marv
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kaaya-marvin-6b701b190/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/kaay_marv">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?kmarv&style=flat-square&color=blue" alt=""/>
+</div>
 
 Portfolio Website : https://kaayamarvin-portfolio.netlify.app/
 
