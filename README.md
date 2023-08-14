@@ -28,7 +28,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaaya-marvin-6b701b190/)
 - 
   [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-brightgreen)](https://kaayamarvin-portfolio.netlify.app/)
-  <div align="center">![](https://komarev.com/ghpvc/?kmarv&label=PROFILE+VIEWS)</div>
+  <div align="center">![Test](https://komarev.com/ghpvc/?kmarv&label=PROFILE+VIEWS)</div>
 
 ---
 
