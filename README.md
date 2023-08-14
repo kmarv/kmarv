@@ -7,7 +7,7 @@
       <a href="https://twitter.com/kaay_marv">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-      ![](https://komarev.com/ghpvc/?username=kmarve&label=PROFILE+VIEWS)
+     <img src=" ![](https://komarev.com/ghpvc/?username=kmarve&label=PROFILE+VIEWS)" alt="views badge" />
   </div>
   <h1>
     hey there
