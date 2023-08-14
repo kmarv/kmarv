@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div align="center">![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)</div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -28,6 +28,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaaya-marvin-6b701b190/)
 - 
   [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-brightgreen)](https://kaayamarvin-portfolio.netlify.app/)
+  <div align="center">![](https://komarev.com/ghpvc/?kmarv&label=PROFILE+VIEWS)</div>
 
 ---
 
