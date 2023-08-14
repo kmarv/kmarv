@@ -9,7 +9,6 @@
       </a>
       <img src="https://komarev.com/ghpvc/?kmarv&style=flat-square&color=blue" alt=""/>
   </div>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-brightgreen)](https://kaayamarvin-portfolio.netlify.app/)
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -28,7 +27,7 @@
 - 🌻 I’m also gaining experience in working as a blockchain developer (smart contract development) where i'm engaging in the development and deployment of smart contracts
 - 💞️ I'm passionate about solving problems with technology and constantly looking forward to self-improvement in terms of learning and working with people. Learn more about me
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaaya-marvin-6b701b190/)
-- 
+- [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-brightgreen)](https://kaayamarvin-portfolio.netlify.app/)
 
 ---
 
