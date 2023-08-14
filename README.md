@@ -7,7 +7,6 @@
       <a href="https://twitter.com/kaay_marv">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-     <img src=" https://komarev.com/ghpvc/?username=kmarve&label=PROFILE+VIEWS" alt="views badge" />
   </div>
   <h1>
     hey there
@@ -17,7 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<div align="center">![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)</div>
 ---
 
 ### :man_technologist: About Me :
