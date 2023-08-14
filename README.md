@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m Kaaya Marvin a software engineer/Frontend developer/ Blockchain developer 
 - 💻️ i have gained  experience of 2+ years in front end development using technlogies like ReactJS, NextJs. working for tech startups like Pieme, Kola technologies  
 - 🌱 I’m also gaining experience in working as a blockchain developer (smart contract development) where i'm engaging in the development and deployment of smart contracts
