@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m Kaaya Marvin a software engineer/Frontend developer/ Blockchain developer 
-- 💻 I have gained  experience of 2+ years in front-end and backend development using technologies like ReactJS, NextJs, NestJS, NodeJS, and Solidity. working for tech startups like Pieme, Kola Technologies, Yowaste  
+- 💻 I have gained  experience of 3+ years in front-end and backend development using technologies like ReactJS, NextJs, NestJS, NodeJS, and Solidity. working for tech startups like Pieme, Kola Technologies, Yowaste  
 - 🌻 I’m also gaining experience in working as a blockchain developer (smart contract development) where I'm engaging in the development and deployment of smart contracts
 - 💞️ I'm passionate about solving problems with technology and constantly looking forward to self-improvement in terms of learning and working with people. Learn more about me
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaaya-marvin-6b701b190/)
