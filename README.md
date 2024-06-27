@@ -21,9 +21,8 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m Kaaya Marvin a software engineer/Frontend developer/ Blockchain developer 
-- 💻 I have gained  experience of 3+ years in front-end and backend development using technologies like ReactJS, NextJs, NestJS, NodeJS, and Solidity. working for tech startups like Pieme, Kola Technologies, Yowaste  
-- 🌻 I’m also gaining experience in working as a blockchain developer (smart contract development) where I'm engaging in the development and deployment of smart contracts
+- 👋 Hi, I’m Kaaya Marvin a software engineer/ FullStack developer / Blockchain developer 
+- 💻 I have gained  experience of 3+ years in front-end and backend development using technologies like ReactJS, NextJs, NestJS, NodeJS, Laravel and Solidity. mart contracts
 - 💞️ I'm passionate about solving problems with technology and constantly looking forward to self-improvement in terms of learning and working with people. Learn more about me
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaaya-marvin-6b701b190/)
 - 
@@ -48,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" width="40" height="40" />
 </div>
 
 ---
