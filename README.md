@@ -48,8 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="80" height="80" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="nuxtjs" alt="Laravel" width="80" height="80" />&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" title="Web3" alt="Web3" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="nuxtjs" alt="nuxtjs" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80" />&nbsp;
+   
 </div>
 
 ---
